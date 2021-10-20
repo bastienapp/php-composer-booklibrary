@@ -1,0 +1,9 @@
+{
+  "name": "wcs/book-library",
+  "autoload": {
+    "psr-4": {
+      "BookLibrary\\": "src/"
+    }
+  },
+  "require": {}
+}
